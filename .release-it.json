@@ -1,6 +1,6 @@
 {
   "git": {
-    "commitMessage": "chore: release v${vaesion}",
+    "commitMessage": "chore: release v${version}",
     "commit": true,
     "tag": true,
     "push": true
