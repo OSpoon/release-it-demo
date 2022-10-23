@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/OSpoon/release-it-demo#readme",
   "devDependencies": {
+    "@release-it/conventional-changelog": "^5.1.1",
     "git-cz": "^4.9.0",
     "release-it": "^15.5.0"
   }
